@@ -1,0 +1,40 @@
+{
+  "data": {
+    "name": "anastasia-landing",
+    "template": "D:\\CLAUDE\\launch-ui",
+    "last_saved": "2026-03-13T11:32:56.069591+00:00"
+  },
+  "undo_stack": [
+    {
+      "action": "add_component",
+      "component": "navbar",
+      "timestamp": "2026-03-13T11:32:55.455386+00:00"
+    },
+    {
+      "action": "add_component",
+      "component": "hero",
+      "timestamp": "2026-03-13T11:32:55.579229+00:00"
+    },
+    {
+      "action": "add_component",
+      "component": "items",
+      "timestamp": "2026-03-13T11:32:55.705693+00:00"
+    },
+    {
+      "action": "add_component",
+      "component": "stats",
+      "timestamp": "2026-03-13T11:32:55.828307+00:00"
+    },
+    {
+      "action": "add_component",
+      "component": "cta",
+      "timestamp": "2026-03-13T11:32:55.948901+00:00"
+    },
+    {
+      "action": "add_component",
+      "component": "footer",
+      "timestamp": "2026-03-13T11:32:56.069579+00:00"
+    }
+  ],
+  "redo_stack": []
+}
